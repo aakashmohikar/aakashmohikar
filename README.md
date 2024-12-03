@@ -9,10 +9,10 @@
 
 ### 🚀 About Me  
 
-🌐 **A Data Science Enthusiast & Problem Solver**  
-💡 Passionate about uncovering trends through data analysis and visualization, with a strong foundation in **Product Management**, **Data Engineering**, and **Analytics**.  
-🧠 Actively delving into **AI**, **Machine Learning**, and **Emerging Technologies** to shape smarter solutions.  
-🎯 My mission: Transform data into impactful stories and strategies.  
+- 🔎 Specializing in **Data Science, Business Analytics, and Product Development.**  
+- 🛠️ Skilled in **Python, SQL, Power BI, Tableau, Snowflake, and more.**  
+- 📊 Enthusiast for **data-driven insights, hypothesis testing, and storytelling through data visualization.**  
+- 📚 Actively exploring emerging trends in **AI, ML, and Data Strategy.**
 
 ---
 
