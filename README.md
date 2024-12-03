@@ -2,7 +2,7 @@
 <p align="center">
 🌟 <b>Master’s Student in Information Science at the University of Wisconsin-Madison</b> 🌟  
 <br>
-📍 Based in Brooklyn, NY | Turning data into insights and insights into action  
+📍 Business Analyst based in New York, NY | Turning data into insights and insights into action  
 </p>  
 
 ---
