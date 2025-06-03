@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Aakash Mohikar 👋</h1>  
 <p align="center">
-🌟 <b>Master’s Student in Information Science at the University of Wisconsin-Madison</b> 🌟  
+🌟 <b>Master’s graduate in Information Science from the University of Wisconsin–Madison</b> 🌟  
 <br>
-📍 Business Analyst based in New York, NY | Turning data into insights and insights into action  
+📍 Business Analyst | Turning data into insights and insights into action  
 </p>  
 
 ---
