@@ -50,7 +50,12 @@
 
 ---
 
-### 🏢 Professional Experience  
+### 🏢 Professional Experience
+
+#### **Business & Financial Analyst**  
+**Think Round, Inc** _(Feb 2024 – Present)_  
+- Built an AI chatbot using Python and LangChain to automate donor inquiries, increasing engagement.  
+- Analyzed P&L trends with Excel and Tableau to improve budget forecasting and resource allocation.  
 
 #### **Business & Strategy Analyst**  
 **Progyny, Inc** _(Sept 2024 – Nov 2024)_  
