@@ -37,6 +37,12 @@
 
 ### 🌟 Featured Projects  
 
+📚 **Credit Risk Modeling**  
+-  Built an **XGBoost**-based credit risk assessment system achieving **98% AUC** for predicting borrower default probability with SHAP interpretability.
+
+📈 **Healthcare Premium Prediction**  
+- Developed a machine learning **regression** model using **XGBoost** to predict healthcare insurance premiums with **97% accuracy** for cost planning.
+
 🔍 **Customer Churn Analysis in Banking**  
 - Used **Power BI** for identifying key drivers of customer churn in the banking sector.  
 
